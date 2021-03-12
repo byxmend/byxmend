@@ -12,3 +12,4 @@
      \/__/         \/__/         \/__/     \/__/     \/__/    
 
 <strong>Welcome to my GitHub profile.</strong>
+</pre>
