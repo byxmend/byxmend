@@ -17,7 +17,7 @@
 
 <br />
 
-![byxmend's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=byxmend&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byxmend)](https://github.com/byxmend/github-readme-stats)
 
 ### **Languages and Tools:**
 
@@ -34,5 +34,3 @@
 <img alt="Rider" src="https://img.shields.io/badge/-Rider-B4188B?style=flat-square&logo=rider&logoColor=white" />
 <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-85B418?style=flat-square&logo=webstorm&logoColor=white" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byxmend)](https://github.com/byxmend/github-readme-stats)
