@@ -17,7 +17,7 @@
 
 <br />
 
-![byxmend's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=byxmend)
+![byxmend's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=byxmend&show_icons=true)
 
 ### **Languages and Tools:**
 
