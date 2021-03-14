@@ -3,7 +3,7 @@
 <br />
 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/byxmend)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=byxmend.byxmend)
+![ok](https://visitor-badge.glitch.me/badge?page_id=byxmend.byxmend)
 
 - 🌱 My name is Nikita (18 y.o)
 
