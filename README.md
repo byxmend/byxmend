@@ -1,6 +1,7 @@
-### **Hey! Nice to see you on my github** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## **Hey! Nice to see you on my github** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br />
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=byxmend.byxmend)
 
@@ -16,5 +17,19 @@
 
 <br />
 
-**Languages and Tools:**  
+![byxmend's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=byxmend)
 
+### **Languages and Tools:**
+
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-1861B4?style=flat-square&logo=python&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="Framework" src="https://img.shields.io/badge/-Framework-green?style=flat-square&logo=.Net&logoColor=white" />
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+<img alt="Rider" src="https://img.shields.io/badge/-Rider-B4188B?style=flat-square&logo=rider&logoColor=white" />
+<img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-85B418?style=flat-square&logo=webstorm&logoColor=white" />
+<img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-EE8D2F?style=flat-square&logo=pycharm&logoColor=white" />
