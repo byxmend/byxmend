@@ -31,6 +31,4 @@
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-<img alt="Rider" src="https://img.shields.io/badge/-Rider-B4188B?style=flat-square&logo=rider&logoColor=white" />
-<img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-85B418?style=flat-square&logo=webstorm&logoColor=white" />
 </p>
