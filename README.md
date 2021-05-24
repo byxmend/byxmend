@@ -18,6 +18,6 @@
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />
-<img alt="Framework" src="https://img.shields.io/badge/-Framework-green?style=flat-square&logo=.Net&logoColor=white" />
+<img alt=".NET CORE" src="https://img.shields.io/badge/-.NET CORE-green?style=flat-square&logo=.Net&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
