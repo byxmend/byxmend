@@ -1,7 +1,3 @@
-## **Hey! Nice to see you on my github** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<br />
-
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/byxmend)
 ![](https://visitor-badge.glitch.me/badge?page_id=byxmend.byxmend)
 
