@@ -5,8 +5,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/byxmend)
 ![](https://visitor-badge.glitch.me/badge?page_id=byxmend.byxmend)
 
-- 🌱 My name is Nikita (18 y.o)
-
 - ⚡ Beginner developer from Belarus   
 
 - 👅 Languages: English and Russian
